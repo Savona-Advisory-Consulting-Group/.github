@@ -20,6 +20,3 @@ While the majority of our client-facing codebases and internal tooling currently
 ## Connect With Us
 
 We collaborate with enterprises, growing tech companies, and forward-thinking organizations seeking expert technical guidance and engineering execution.
-
-* **Website:** [savona.consulting](https://www.google.com/search?q=https://savona.consulting) *(Replace with your actual domain)*
-* **Professional Network:** [LinkedIn Profile Link](https://linkedin.com) *(Optional)*
